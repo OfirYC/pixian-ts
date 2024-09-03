@@ -1,4 +1,4 @@
-import { ReadStream, writeFileSync } from 'fs';
+import { ReadStream } from 'fs';
 import ky, { KyInstance } from 'ky';
 import { blob } from 'stream-consumers';
 import {
