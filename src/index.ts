@@ -1,1 +1,1 @@
-export * from './pixianai';
+export * from './pixianai.js';
